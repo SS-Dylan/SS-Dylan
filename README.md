@@ -6,7 +6,7 @@ I am a graduate of East Tennessee State University who is continuing to explore 
 
 ---
 
-### 🖥️ Tools and Languages
+### ⚙ Tools and Languages
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -24,4 +24,10 @@ I am a graduate of East Tennessee State University who is continuing to explore 
 
 ### 📈 GitHub Stats
 
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRX-Dylan&show_icons=true&theme=radical)
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRX-Dylan&show_icons=true&theme=codeSTACKr)
+
+#
+
+<details>
+    <summary><h3>🖥 My Coding Journey</h3></summary>
+    I've been using computers for as long as I can remember. By the time I was three years old, I was able to navigate menus to a reasonable degree. I always had some sort of attraction to them, which is somewhat unsual for the region of Appalachia I grew up in. Regardless, this fascination never left. Throughout school, I was always speeding through assignments that were given to us on the computer. Around the same time, I grew to love video games as well. My first realistic dream job was to be a video game designer. I got to high school and took my first programming class, and honestly hated it. It turned me away from the idea of working in the computing field. I became interested in engineering, and decided to major in that my first semester at East Tennessee State University. That was also the only semester I was an engineering major, I simply did not enjoy it like I thought I would. The last day of classes that first semester, I went to the computing advisor and changed my major to Computing with an Information Technology concentration. Since then, my passion for computers had reignited and grown. I had much exposure to the different paths you could take in the computing field, and fell in love with three in particular. Data analytics, system administration, and cybersecurity. I did not have a strong academic background in software development, but I find myself wanting to learn more about it. I have begun to read books and am taking on personal projects focusing on software development concepts involving algorithms, data structures, and automation. I am excited to see where I end up in the future, and will continue to expand my knowledge throughout my journey.

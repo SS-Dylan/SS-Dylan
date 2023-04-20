@@ -21,4 +21,4 @@ I am a graduate of East Tennessee State University who is continuing to explore 
 
 ### 📈 GitHub Stats
 
-[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylan-shaffer&count_private=true&show_icons=true&theme=dark)]
+[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRX-Dylan)](https://github.com/anuraghazra/github-readme-stats)

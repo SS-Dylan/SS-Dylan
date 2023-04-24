@@ -25,6 +25,8 @@ I am a graduate of East Tennessee State University who is continuing to explore 
 ### 📈 GitHub Stats
 
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=WRX-Dylan&show_icons=true&theme=codeSTACKr)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WRX-Dylan&layout=compact&theme=codeSTACKr&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 

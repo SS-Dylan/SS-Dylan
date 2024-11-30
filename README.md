@@ -1,6 +1,6 @@
 # ✈ Dylan Shaffer
 
-**`Data and Automation Enthusiast`**
+**`Web Development and Data Analysis`**
 
 I am a graduate of East Tennessee State University who is continuing to explore his interests in the world of computers. I am currently working as an IT Analyst at [Bell Flight](https://www.bellflight.com/), where I do a little bit of everything. I have done work such as web application development, data analysis, and end user support. I am exploring many personal projects in my free time, and plan to continue to expand my knowledge in software development specifically.
 
